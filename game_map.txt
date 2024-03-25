@@ -1,0 +1,3 @@
+startRoom hallway north
+hallway treasureRoom north
+treasureRoom endRoom east

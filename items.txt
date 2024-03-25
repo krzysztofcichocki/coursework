@@ -1,0 +1,2 @@
+startRoom Sword Forged from ancient steel, it's certain to pierce through any enemy.
+treasureRoom Gold A shiny piece of gold bullion.
